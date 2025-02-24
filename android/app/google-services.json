@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559980019043",
+    "project_id": "sistemaregistroujat",
+    "storage_bucket": "sistemaregistroujat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559980019043:android:a9540af94aced19b95a756",
+        "android_client_info": {
+          "package_name": "com.example.registro_movil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeOpnsBlQ4s9cAmu45yIB_zAEF0UIQO7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
